@@ -130,6 +130,7 @@
     <ClCompile Include="ParkedCar.cpp" />
     <ClCompile Include="ParkingMeter.cpp" />
     <ClCompile Include="ParkingTicket.cpp" />
+    <ClCompile Include="PoliceOfficer.cpp" />
     <ClCompile Include="Test Driver.cpp" />
   </ItemGroup>
   <ItemGroup>
