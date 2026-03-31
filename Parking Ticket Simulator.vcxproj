@@ -132,6 +132,8 @@
   <ItemGroup>
     <ClInclude Include="ParkedCar.h" />
     <ClInclude Include="ParkingMeter.h" />
+    <ClInclude Include="ParkingTicket.h" />
+    <ClInclude Include="PoliceOfficer.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
