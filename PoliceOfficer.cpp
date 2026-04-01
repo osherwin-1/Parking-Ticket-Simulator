@@ -1,4 +1,5 @@
 #include "PoliceOfficer.h"
+#include "ParkingTicket.h"
 #include <iostream>
 
 PoliceOfficer::PoliceOfficer(const string& n, const string& badge, const ParkedCar& c, const ParkingMeter& m)
